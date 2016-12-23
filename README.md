@@ -16,7 +16,7 @@ Classification:
 
 Regression:
 
-* `wineQuality.php` - regression model to assess the quality of the wine 
+* `wineQuality.php` - regression model to assess the quality of the wine
 
 ## License
 
@@ -24,4 +24,4 @@ PHP-ML is released under the MIT Licence. See the bundled LICENSE file for detai
 
 ## Author
 
-Arkadiusz Kondas (@ArkadiuszKondas)
+Tony Le (tonyle.microsoft@gmail.com)

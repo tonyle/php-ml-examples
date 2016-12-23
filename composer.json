@@ -1,17 +1,23 @@
 {
-  "name": "php-ai/php-ml-examples",
+  "name": "tonyle/php-ml-examples",
   "type": "project",
   "description": "Examples of the use of PHP-ML library",
   "license": "MIT",
   "keywords": ["machine learning","pattern recognition","computational learning theory","artificial intelligence"],
-  "homepage": "https://github.com/php-ai/php-ml-examples",
+  "homepage": "https://github.com/tonyle/php-ml-examples",
   "authors": [
     {
-      "name": "Arkadiusz Kondas",
-      "email": "arkadiusz.kondas@gmail.com"
+      "name": "Tony le",
+      "email": "tonyle.microsoft@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/tonyle/php-ml"
     }
   ],
   "require": {
-    "php-ai/php-ml": "dev-develop"
+    "tonyle/php-ml": "dev-develop"
   }
 }
