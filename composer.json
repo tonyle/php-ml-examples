@@ -18,6 +18,6 @@
     }
   ],
   "require": {
-    "tonyle/php-ml": "dev-develop"
+    "tonyle/php-ml": "dev-master"
   }
 }
